@@ -1,0 +1,57 @@
+#frame{
+    position: relative;
+    width: 600px;
+    height: 1169px;
+    
+    background: #FFFFFF;
+}
+/* Rectangle 10 */
+#Rectangle_10 {
+    position: absolute;
+    width: 600px;
+    height: 22px;
+    left: 0px;
+    top: 0px;
+    
+    background: #8EDCCA;
+}
+#Rectangle_11 {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 0px;
+    top: 640px;
+     background: rgba(142, 220, 202, 0.4);
+}
+#Rectangle_12 {
+    position: absolute;
+    width: 600px;
+    height: 22px;
+    left: 0px;
+    top: 1147px;
+    
+    background: #8EDCCA;
+}
+#pic {
+    position: absolute;
+    width: 552px;
+    height: 224px;
+    left: 26px;
+    top: 28px;
+}
+#text {
+    position: absolute;
+    width: 444px;
+    height: 893px;
+    left: 70.23px;
+    top: 254px;
+    
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+
